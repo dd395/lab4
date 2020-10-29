@@ -41,6 +41,7 @@ $(document).ready(
 
             //put results in spans
             $("#feeChargeOutput").text(totLateCharges.toFixed(2));
+            $("p.output").show();
 
         }
 
@@ -77,6 +78,7 @@ $(document).ready(
 
             //put results in spans
             $("#coworkerCostOutput").text(totCoworkerCost.toFixed(2));
+            $("p.output").show();
 
         }
         function showPopup()

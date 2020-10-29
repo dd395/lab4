@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e327bcd-185c-4c3e-b78c-cd11a06b5f40" name="Default Changelist" comment="" />
+    <list default="true" id="8e327bcd-185c-4c3e-b78c-cd11a06b5f40" name="Default Changelist" comment="included .output{display:none:}, resulting in changes to &lt;p&gt;,and span outputs.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jX2zoYVFImy90Fo2PTbEMD1vWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,11 +52,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603936381052</updated>
-      <workItem from="1603936382071" duration="8703000" />
+      <workItem from="1603936382071" duration="9503000" />
+      <workItem from="1603997255117" duration="1924000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="included .output{display:none:}, resulting in changes to &lt;p&gt;,and span outputs." />
+    <option name="LAST_COMMIT_MESSAGE" value="included .output{display:none:}, resulting in changes to &lt;p&gt;,and span outputs." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="0" key="CommitChangelistDialog2" timestamp="1603999207116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603999207116" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603945224948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603945224948" />
+    <state x="596" y="117" key="Github.UntrackedFilesDialog" timestamp="1603945237761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603945237761" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603998918252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603998918252" />
   </component>
 </project>
